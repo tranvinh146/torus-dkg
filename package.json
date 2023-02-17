@@ -1,0 +1,19 @@
+{
+  "name": "generate-key-sharing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@types/bn.js": "^5.1.1",
+    "@types/eccrypto": "^1.1.3",
+    "@types/elliptic": "^6.4.14",
+    "@types/keccak": "^3.0.1",
+    "bn.js": "^5.2.1",
+    "eccrypto": "^1.1.6",
+    "elliptic": "^6.5.4",
+    "keccak": "^3.0.3"
+  }
+}
